@@ -1,0 +1,27 @@
+body {
+  background-color: #FFBC80;
+}
+
+hr {
+
+  border-style: dotted;
+  border-color: grey;
+
+  width: 5%;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+.bildung {
+  color: white;
+}
+
+#pagetitle {
+  color: yellow;
+}
